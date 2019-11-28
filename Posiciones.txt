@@ -125,3 +125,135 @@ P19M2 = "FF FF 02 07 03 1E ED 00 2E 00 BA"
 
 # Motor2: Posicion: 20 Velocidad: 4.10 rpm
 P20M2 = "FF FF 02 07 03 1E E0 00 24 00 D1"
+
+
+
+Nuevas posiciones
+
+# Motor1: Posicion:(50,0) Velocidad: 16 rpm
+P00M1 = "FF FF 01 07 03 1E 97 02 96 00 A7" 
+
+# Motor1: Posicion:(60,0) Velocidad: 2.68 rpm
+P01M1 = "FF FF 01 07 03 1E A5 02 18 00 17" 
+
+# Motor1: Posicion:(70,0) Velocidad: 3.17 rpm
+P02M1 = "FF FF 01 07 03 1E B4 02 1C 00 04" 
+
+# Motor1: Posicion:(80,0) Velocidad: 3.61 rpm
+P03M1 = "FF FF 01 07 03 1E C4 02 20 00 F0" 
+
+# Motor1: Posicion:(90,0) Velocidad: 4.01 rpm
+P04M1 = "FF FF 01 07 03 1E D5 02 23 00 DC" 
+
+# Motor1: Posicion:(100,0) Velocidad: 4.39 rpm
+P05M1 = "FF FF 01 07 03 1E E6 02 27 00 C7" 
+
+# Motor1: Posicion:(90,12.6) Velocidad: 4.70 rpm
+P06M1 = "FF FF 01 07 03 1E C9 02 2A 00 E1" 
+
+# Motor1: Posicion:(80,22.4) Velocidad: 4.97 rpm
+P07M1 = "FF FF 01 07 03 1E AF 02 2C 00 F9" 
+
+# Motor1: Posicion:(70,29.4) Velocidad: 5.20 rpm
+P08M1 = "FF FF 01 07 03 1E 97 02 2E 00 09" 
+
+# Motor1: Posicion:(60,33.6) Velocidad: 5.40 rpm
+P09M1 = "FF FF 01 07 03 1E 7F 02 30 00 25" 
+
+# Motor1: Posicion:(50,35) Velocidad: 5.56 rpm
+P10M1 = "FF FF 01 07 03 1E 6B 02 31 00 38" 
+
+# Motor1: Posicion:(40,33.6) Velocidad: 9.28 rpm
+P11M1 = "FF FF 01 07 03 1E 5B 02 53 00 26" 
+
+# Motor1: Posicion:(30,29.4) Velocidad: 8.50 rpm
+P12M1 = "FF FF 01 07 03 1E 51 02 4C 00 37" 
+
+# Motor1: Posicion:(20,22.4) Velocidad: 8.03 rpm
+P13M1 = "FF FF 01 07 03 1E 4E 02 48 00 3E" 
+
+# Motor1: Posicion:(10,12.6) Velocidad: 7.52 rpm
+P14M1 = "FF FF 01 07 03 1E 52 02 43 00 3F" 
+
+# Motor1: Posicion:(0,0) Velocidad: 6.66 rpm
+P15M1 = "FF FF 01 07 03 1E 60 02 3B 00 39" 
+
+# Motor1: Posicion:(10,0) Velocidad: 5.28 rpm
+P16M1 = "FF FF 01 07 03 1E 68 02 2F 00 3D" 
+
+# Motor1: Posicion:(20,0) Velocidad: 3.32 rpm
+P17M1 = "FF FF 01 07 03 1E 72 02 1D 00 45" 
+
+# Motor1: Posicion:(30,0) Velocidad: 0.99 rpm
+P18M1 = "FF FF 01 07 03 1E 7D 02 08 00 4F" 
+
+# Motor1: Posicion:(40,0) Velocidad: 1.57 rpm
+P19M1 = "FF FF 01 07 03 1E 89 02 0E 00 3C" 
+
+# Motor1: Posicion:(50,0) Velocidad: 4.33 rpm
+P20M1 = "FF FF 01 07 03 1E 97 02 26 00 17" 
+
+_______________________________________________________________
+
+# Motor2: Posicion:(50,0) Velocidad: 16 rpm
+P00M2 = "FF FF 02 07 03 1E AF 02 96 00 8E" 
+
+# Motor2: Posicion:(60,0) Velocidad: 6.73 rpm
+P01M2 = "FF FF 02 07 03 1E 97 02 3C 00 00"
+
+# Motor2: Posicion:(70,0) Velocidad: 6.99 rpm
+P02M2 = "FF FF 02 07 03 1E 7F 02 3E 00 16"
+
+# Motor2: Posicion:(80,0) Velocidad: 7.22 rpm
+P03M2 = "FF FF 02 07 03 1E 68 02 40 00 2B"
+
+# Motor2: Posicion:(90,0) Velocidad: 7.44 rpm
+P04M2 = "FF FF 02 07 03 1E 51 02 42 00 40"
+
+# Motor2: Posicion:(100,0) Velocidad: 7.61 rpm
+P05M2 = "FF FF 02 07 03 1E 3B 02 44 00 54"
+
+# Motor2: Posicion:(90,12.6) Velocidad: 7.72 rpm
+P06M2 = "FF FF 02 07 03 1E 49 02 45 00 45"
+
+# Motor2: Posicion:(80,22.4) Velocidad: 7.86 rpm
+P07M2 = "FF FF 02 07 03 1E 5D 02 46 00 30"
+
+# Motor2: Posicion:(70,29.4) Velocidad: 7.56 rpm
+P08M2 = "FF FF 02 07 03 1E 79 02 43 00 17"
+
+# Motor2: Posicion:(60,33.6) Velocidad: 7.49 rpm
+P09M2 = "FF FF 02 07 03 1E 98 02 43 00 F8"
+
+# Motor2: Posicion:(50,35) Velocidad: 7.19 rpm
+P10M2 = "FF FF 02 07 03 1E B7 02 40 00 DC"
+
+# Motor2: Posicion:(40,33.6) Velocidad: 4.53 rpm
+P11M2 = "FF FF 02 07 03 1E D5 02 28 00 D6"
+
+# Motor2: Posicion:(30,29.4) Velocidad: 6.67 rpm
+P12M2 = "FF FF 02 07 03 1E ED 02 3B 00 AB"
+
+# Motor2: Posicion:(20,22.4) Velocidad: 8.90 rpm
+P13M2 = "FF FF 02 07 03 1E 01 03 4F 00 82"
+
+# Motor2: Posicion:(10,12.6) Velocidad: 10.07 rpm
+P14M2 = "FF FF 02 07 03 1E 11 03 5A 00 67"
+
+# Motor2: Posicion:(0,0) Velocidad: 10.28 rpm
+P15M2 = "FF FF 02 07 03 1E 1E 03 5C 00 58"
+
+# Motor2: Posicion:(10,0) Velocidad: 9.61 rpm
+P16M2 = "FF FF 02 07 03 1E 09 03 56 00 73"
+
+# Motor2: Posicion:(20,0) Velocidad: 8.00 rpm
+P17M2 = "FF FF 02 07 03 1E F3 02 47 00 99"
+
+# Motor2: Posicion:(30,0) Velocidad: 6.51 rpm
+P18M2 = "FF FF 02 07 03 1E DD 02 3A 00 BC"
+
+# Motor2: Posicion:(40,0) Velocidad: 5.14 rpm
+P19M2 = "FF FF 02 07 03 1E C6 02 2E 00 DF"
+
+# Motor2: Posicion:(50,0) Velocidad: 4.10 rpm
+P20M2 = "FF FF 02 07 03 1E AF 02 24 00 00"
