@@ -257,3 +257,31 @@ P19M2 = "FF FF 02 07 03 1E C6 02 2E 00 DF"
 
 # Motor2: Posicion:(50,0) Velocidad: 4.10 rpm
 P20M2 = "FF FF 02 07 03 1E AF 02 24 00 00"
+
+Cunclillas
+------------------------------------------------------------
+# Motor1: Posicion:(50,0) Velocidad: 16 rpm
+P00M1 = "FF FF 01 07 03 1E 97 02 96 00 A7" 
+
+# Motor1: Posicion:(50,-35) Velocidad: 2.68 rpm
+P01M1 = "FF FF 01 07 03 1E CF 02 96 00 6F" 
+
+# Motor1: Posicion:(50,35) Velocidad: 3.17 rpm
+P02M1 = "FF FF 01 07 03 1E 6B 02 96 00 D3" 
+
+# Motor1: Posicion:(50,0) Velocidad: 4.01 rpm
+P03M1 = "FF FF 01 07 03 1E 97 02 96 00 A7" 
+
+______
+
+# Motor2: Posicion:(50,0) Velocidad: 16 rpm
+P00M2 = "FF FF 02 07 03 1E AF 02 96 00 8E" 
+
+# Motor2: Posicion:(50,-35) Velocidad: 6.73 rpm
+P01M2 = "FF FF 02 07 03 1E AC 02 96 00 91"
+
+# Motor2: Posicion:(50,35) Velocidad: 6.99 rpm
+P02M2 = "FF FF 02 07 03 1E B7 02 96 00 86"
+
+# Motor2: Posicion:(50,0) Velocidad: 7.22 rpm
+P03M2 = "FF FF 02 07 03 1E AF 02 96 00 8E"
